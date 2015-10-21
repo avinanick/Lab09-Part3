@@ -1,0 +1,5 @@
+com/mycompany/simple/weather/Weather.class
+com/mycompany/simple/weather/YahooRetriever.class
+com/mycompany/simple/weather/WeatherFormatter.class
+com/mycompany/simple/weather/YahooParser.class
+com/mycompany/simple/weather/Main.class
